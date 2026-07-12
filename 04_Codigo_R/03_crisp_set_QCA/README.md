@@ -1,0 +1,1 @@
+# Analisis QCA con conjuntos crisp
