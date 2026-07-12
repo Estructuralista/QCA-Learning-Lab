@@ -39,9 +39,36 @@ QCA-Learning-Lab
 
 🟢 En construcción.
 
-Este repositorio crecerá conforme avance el aprendizaje del método QCA y el desarrollo del Marco Cognitivo-Sistémico.
+Este repositorio crecerá conforme avance el aprendizaje del método QCA y el marco de los sistemas complejos
 
 ---
+todo lo que hagamos tendrá este flujo:
+
+Pregunta de investigación
+
+↓
+
+Teoría
+
+↓
+
+Datos
+
+↓
+
+Código
+
+↓
+
+Resultados
+
+↓
+
+Interpretación
+
+↓
+
+Repositorio
 
 ## Autor
 
